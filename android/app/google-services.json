@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566390245142",
+    "project_id": "pu-library-16b5e",
+    "storage_bucket": "pu-library-16b5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566390245142:android:bf4b87146f9a2eed213237",
+        "android_client_info": {
+          "package_name": "com.example.pu_library"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxJDkKMPFUrw9PzYTi6_OklJXvx6kjVF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
