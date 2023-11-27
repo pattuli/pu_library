@@ -1,6 +1,6 @@
 # pu_library
 
-A new Flutter project.
+A library Management System build with flutter and Firebase.
 
 ## Getting Started
 
